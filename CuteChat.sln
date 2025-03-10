@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuteChat.WebApi", "CuteChat.WebApi\CuteChat.WebApi.csproj", "{2049FFD2-20DA-4101-B18F-DC3234709A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuteChat.Domain", "CuteChat.Domain\CuteChat.Domain.csproj", "{03496D20-2535-40C0-B322-2CA916FF032A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuteChat.Persistence", "CuteChat.Persistence\CuteChat.Persistence.csproj", "{81ECE655-40C3-4EAE-A96B-5CCCA3983896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuteChat.Models", "CuteChat.Models\CuteChat.Models.csproj", "{DB80913D-87AC-48FA-893A-0519DF05FE85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuteChat.Services", "CuteChat.Services\CuteChat.Services.csproj", "{6ABBD06A-0AA0-41E0-A99F-2006C1EDD196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuteChat.Infrastructure", "CuteChat.Infrastructure\CuteChat.Infrastructure.csproj", "{383D440D-9409-41FB-818C-602D577B7770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2049FFD2-20DA-4101-B18F-DC3234709A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2049FFD2-20DA-4101-B18F-DC3234709A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2049FFD2-20DA-4101-B18F-DC3234709A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2049FFD2-20DA-4101-B18F-DC3234709A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03496D20-2535-40C0-B322-2CA916FF032A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03496D20-2535-40C0-B322-2CA916FF032A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03496D20-2535-40C0-B322-2CA916FF032A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03496D20-2535-40C0-B322-2CA916FF032A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81ECE655-40C3-4EAE-A96B-5CCCA3983896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81ECE655-40C3-4EAE-A96B-5CCCA3983896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81ECE655-40C3-4EAE-A96B-5CCCA3983896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81ECE655-40C3-4EAE-A96B-5CCCA3983896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB80913D-87AC-48FA-893A-0519DF05FE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB80913D-87AC-48FA-893A-0519DF05FE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB80913D-87AC-48FA-893A-0519DF05FE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB80913D-87AC-48FA-893A-0519DF05FE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABBD06A-0AA0-41E0-A99F-2006C1EDD196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABBD06A-0AA0-41E0-A99F-2006C1EDD196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABBD06A-0AA0-41E0-A99F-2006C1EDD196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABBD06A-0AA0-41E0-A99F-2006C1EDD196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{383D440D-9409-41FB-818C-602D577B7770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383D440D-9409-41FB-818C-602D577B7770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383D440D-9409-41FB-818C-602D577B7770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383D440D-9409-41FB-818C-602D577B7770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F670DC5-B399-42E9-A8CA-CC24A70A76A4}
+	EndGlobalSection
+EndGlobal
